@@ -1,0 +1,10 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int n,m;
+    cout<<"enter the number :"<<endl;
+    cin>>n>>m;
+    cout<<"the sum is"<<n+m;
+    return 0;
+}
